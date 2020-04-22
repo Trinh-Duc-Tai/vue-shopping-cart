@@ -1,5 +1,5 @@
 # vue-practice-shop
-
+link: https://shopping-cart-taitd-demo.netlify.app/
 ## Project setup
 ```
 npm install
